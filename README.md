@@ -244,7 +244,7 @@ var bool = noneInBy( obj, isUnderage );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils-any-in-by`][@stdlib/utils/any-in-by]</span><span class="delimiter">: </span><span class="description">test whether at least one property in an object passes a test implemented by a predicate function.</span>
+-   <span class="package-name">[`@stdlib/object-any-in-by`][@stdlib/object/any-in-by]</span><span class="delimiter">: </span><span class="description">test whether at least one property in an object passes a test implemented by a predicate function.</span>
 -   <span class="package-name">[`@stdlib/object-every-in-by`][@stdlib/object/every-in-by]</span><span class="delimiter">: </span><span class="description">test whether all properties (own and inherited) of an object pass a test implemented by a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-for-in`][@stdlib/utils/for-in]</span><span class="delimiter">: </span><span class="description">invoke a function for each own and inherited enumerable property of an object.</span>
 -   <span class="package-name">[`@stdlib/utils-none-by`][@stdlib/utils/none-by]</span><span class="delimiter">: </span><span class="description">test whether all elements in a collection fail a test implemented by a predicate function.</span>
@@ -328,7 +328,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/any-in-by]: https://github.com/stdlib-js/utils-any-in-by
+[@stdlib/object/any-in-by]: https://github.com/stdlib-js/object-any-in-by
 
 [@stdlib/object/every-in-by]: https://github.com/stdlib-js/object-every-in-by
 
